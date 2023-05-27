@@ -1,0 +1,12 @@
+{
+	"for_description_of_this_file_see": "https://github.com/function61/turbobob",
+	"version_major": 1,
+	"project_name": "dig",
+	"meta": {
+		"description": "Container image for dig - (domain information groper) command is a flexible tool for interrogating DNS name servers.",
+		"website": "https://www.isc.org/bind/"
+	},
+	"docker_images": [
+		{ "image": "ghcr.io/r-xs-fi/dig", "platforms": ["linux/amd64", "linux/arm64", "linux/arm/v7", "linux/riscv64"], "tag_latest": true }
+	]
+}
