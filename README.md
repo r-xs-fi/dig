@@ -1,6 +1,7 @@
 Container image for dig - (domain information groper) command is a flexible tool for interrogating DNS name servers.
 
 ## Usage
+
 ```shell
 docker run --rm -it ghcr.io/r-xs-fi/dig
 ```
